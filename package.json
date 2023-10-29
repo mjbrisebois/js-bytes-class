@@ -1,6 +1,6 @@
 {
   "name": "@whi/bytes-class",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An extension of Uint8Array",
   "type": "module",
   "main": "src/index.js",
